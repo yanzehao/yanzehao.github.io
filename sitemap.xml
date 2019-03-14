@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yanzehao.top/resume/index.html</loc>
+    
+    <lastmod>2019-03-14T05:27:54.514Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yanzehao.top/2019/02/21/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/</loc>
     
-    <lastmod>2019-03-06T14:33:43.896Z</lastmod>
+    <lastmod>2019-03-11T15:56:34.360Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.yanzehao.top/2019/03/02/Vue%E5%AE%9E%E9%99%85%E5%BC%80%E5%8F%91/</loc>
     
-    <lastmod>2019-03-02T11:53:50.304Z</lastmod>
+    <lastmod>2019-03-09T15:34:01.762Z</lastmod>
     
   </url>
   
@@ -145,6 +152,13 @@
     <loc>http://www.yanzehao.top/tags/index.html</loc>
     
     <lastmod>2019-01-29T02:32:22.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yanzehao.top/resume/static/fonts/demo.html</loc>
+    
+    <lastmod>2016-09-01T15:32:54.000Z</lastmod>
     
   </url>
   
